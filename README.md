@@ -14,7 +14,7 @@ Foi criado um roteiro de um vídeo de 1 minuto que apresenta uma visão rápida 
 Foi criado um roteiro do vídeo, utilizando o ChatGPT. O roteiro foi transcrito em Markdown, no VS Code. A voz que narra, foi sintetizada utilizando o ElevenLabs. E por fim, no vídeo, foi escolhido um avatar e adicionada a voz criada anteriormente, no D-ID.
 
 ## 🚀 Resultados
-Explore os resultados incríveis do projeto no [vídeo](https://studio.d-id.com/share?id=a2667e52f5a16d972f3930523371fdc6&utm_source=copy)
+Explore os resultados incríveis do projeto no [vídeo]()
 
 ## 💭 Reflexão 
 - **Desafio de criar algo 'natty' com IA:** Criar algoritmos de IA que reproduzam processos naturais, como geração de texto, imagens e música.
