@@ -1,22 +1,21 @@
-# Projeto Extremamente Aesthetic ;)
+# Extremely Aesthetic Project ;)
 
-## 📒 Descrição
-Foi criado um roteiro de um vídeo de 1 minuto que apresenta uma visão rápida e envolvente. Que expõe o potencial e das aplicações das IAs Generativas, na vida cotidiana.
+## 📒 Description
+A one-minute video script was created, presenting a quick and engaging vision that showcases the potential and applications of Generative AIs in everyday life.
 
-## 🤖 Tecnologias Utilizadas
+## 🤖 Technologies Used
 - **[ChatGPT](https://chat.openai.com/)** 
 - **[VS Code](https://code.visualstudio.com/)** 
 - **[ElevenLabs](https://elevenlabs.io/)** 
 - **[D-ID](https://studio.d-id.com/)** 
 
+## 🧐 Creation Process
+A video script was created using ChatGPT. The script was transcribed in Markdown using VS Code. The narration voice was synthesised using ElevenLabs. Finally, in the video, an avatar was chosen and the previously created voice was added in D-ID.
 
-## 🧐 Processo de Criação
-Foi criado um roteiro do vídeo, utilizando o ChatGPT. O roteiro foi transcrito em Markdown, no VS Code. A voz que narra, foi sintetizada utilizando o ElevenLabs. E por fim, no vídeo, foi escolhido um avatar e adicionada a voz criada anteriormente, no D-ID.
+## 🚀 Results
+Explore the amazing results of the project in the [video](https://github.com/leticiaveigacs/lab-natty-or-not/issues/1#issue-2296535469)
 
-## 🚀 Resultados
-Explore os resultados incríveis do projeto no [vídeo](https://github.com/leticiaveigacs/lab-natty-or-not/issues/1#issue-2296535469)
-
-## 💭 Reflexão 
-- **Desafio de criar algo 'natty' com IA:** Criar algoritmos de IA que reproduzam processos naturais, como geração de texto, imagens e música.
-- **Objetivo:** Manter autenticidade e qualidade, imitando a criatividade humana de forma coerente.
-- **Importância Ética:** Garantir transparência, evitar viés e manipulações indesejadas na aplicação da IA.
+## 💭 Reflection
+- **Challenge of creating something 'natty' with AI:** Developing AI algorithms that replicate natural processes such as text generation, images, and music.
+- **Objective:** Maintain authenticity and quality, imitating human creativity in a coherent manner.
+- **Ethical Importance:** Ensure transparency, avoid bias, and prevent undesirable manipulations in the application of AI.
